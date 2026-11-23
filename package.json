@@ -1,0 +1,10 @@
+{
+  "name": "pip-and-crown",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Room-code backgammon tournaments with tournament-scoped Elo.",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node --test engine.test.js"
+  }
+}
